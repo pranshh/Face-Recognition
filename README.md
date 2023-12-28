@@ -22,7 +22,8 @@ The script uses the face_recognition, os, cv2, and imutils libraries to recogniz
 * Add images of unknown faces in the 'Unknown Faces' directory.
 * Run the script:
     ```
-    python facial_recogn.py
+    python facial_recog.py
+    
     ```
 
 ## Authors
