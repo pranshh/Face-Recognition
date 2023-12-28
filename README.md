@@ -1,10 +1,10 @@
 # Face Recognition
 
-This repository contains a Python script for face recognition.
+This repository contains a Python script for face recognition using Deep Learning and Computer Vision techniques.
 
 ## Description
 
-The script uses the face_recognition, os, cv2, and imutils libraries to recognize faces from known and unknown images. It uses a tolerance level of 0.6 and the 'cnn' model for face recognition.
+The script uses the face_recognition, os, cv2, and imutils libraries to recognize faces from known and unknown images. It leverages deep learning, specifically a convolutional neural network (CNN), for the task of face recognition. The script also utilizes computer vision library, OpenCV, for image processing tasks.
 
 ## Getting Started
 
