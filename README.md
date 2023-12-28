@@ -16,14 +16,6 @@ The script uses the face_recognition, os, cv2, and imutils libraries to recogniz
 * cv2 library
 * imutils library
 
-### Installing
-
-* Install Python
-* Install the required libraries using pip:
-    ```
-    pip install face_recognition opencv-python imutils
-    ```
-
 ### Executing program
 
 * Add images of known faces in the 'Known Faces' directory.
